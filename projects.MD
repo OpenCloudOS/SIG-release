@@ -1,4 +1,4 @@
-#OpenCloudOS 发布SIG 项目群
+# OpenCloudOS 发布SIG 项目群
 
 ## 当前活跃项目
 TBA
