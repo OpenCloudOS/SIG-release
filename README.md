@@ -14,6 +14,9 @@ OpenCloudOS SIG-release（发布SIG）的主要职责是在社区协调各SIG，
 - 钟逊   （腾讯）
 - 谢仲天 （腾讯）
 - 易林   （腾讯）
+- 李士勇（红旗软件）
+- 刘成钢（中讯邮电）
+- 戴纯兴（浪潮）
 
 # SIG会议
 见[社区日历](https://lists.opencloudos.org/calendar)
