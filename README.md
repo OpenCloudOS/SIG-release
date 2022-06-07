@@ -8,6 +8,13 @@ OpenCloudOS SIG-release（发布SIG）的主要职责是在社区协调各SIG，
 - 组长专用
 - 秘书专用
 
+# 成员 Member
+- 陶孙桥 （腾讯）
+- 安泱 （CircleLinux）
+- 钟逊   （腾讯）
+- 谢仲天 （腾讯）
+- 易林   （腾讯）
+
 # SIG会议
 见[社区日历](https://lists.opencloudos.org/calendar)
 
