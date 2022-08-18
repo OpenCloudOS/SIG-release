@@ -4,7 +4,7 @@ OpenCloudOS SIG-release（发布SIG）的主要职责是在社区协调各SIG，
 详见[《发布小组章程》](charter.MD)
 
 # 邮件列表
-- 组列表 
+- 组列表  sig-release@lists.opencloudos.org
 - 组长专用
 - 秘书专用
 
@@ -22,6 +22,10 @@ OpenCloudOS SIG-release（发布SIG）的主要职责是在社区协调各SIG，
 见[社区日历](https://lists.opencloudos.org/calendar)
 
 # 如何参与
-1. 注册GitHub账号
+1. 注册gitee账号
 2. 签署CLA
 3. 找到本SIG下辖项目仓库开始你的贡献之旅。
+
+# 所辖项目 Subprojects
+SIG通常是经由发起的项目推动小组的工作。
+详情见[项目列表](projects.MD)
