@@ -14,15 +14,15 @@ TBA
 3. OpenCloudOS Bugzilla
    - 【简介】搭建bugzilla问题反馈网站，通过该网站，使用者和开发者可进行交互。
    - 【负责人】巢婉琼
-   - 【地址】http://bugs.opencloudos.tech/
+   - 【地址】https://bugs.opencloudos.tech/
 4. OpenCloudOS ISO、虚拟机镜像、docker镜像等
    - 【简介】OpenCloudOS的镜像
    - 【负责人】陶松桥
-   - 【地址】http://mirrors.opencloudos.org/opencloudos/8/isos/
+   - 【地址】https://mirrors.opencloudos.tech/opencloudos/8/isos/
 5. OpenCloudOS  二进制/源码 Yum软件源
    - 【简介】 OpenCloudOS的软件源
    - 【负责人】钟逊
-   - 【地址】http://mirrors.opencloudos.org/opencloudos/
+   - 【地址】https://mirrors.opencloudos.tech/opencloudos/
 
 ## 历史归档项目
 暂无。
