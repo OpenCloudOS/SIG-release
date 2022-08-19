@@ -8,6 +8,14 @@ OpenCloudOS SIG-release（发布SIG）的主要职责是在社区协调各SIG，
 - 组长专用
 - 秘书专用
 
+# 联席组长 Chairs
+SIG组长负责本兴趣小组的运营和治理。
+- 陶松桥 （腾讯）
+- 安泱 （CircleLinux）
+
+# 秘书 Secretary
+- 谢仲天 （腾讯）
+
 # 成员 Member
 - 陶松桥 （腾讯）
 - 安泱 （CircleLinux）
@@ -17,6 +25,10 @@ OpenCloudOS SIG-release（发布SIG）的主要职责是在社区协调各SIG，
 - 李士勇（红旗软件）
 - 刘成钢（中讯邮电）
 - 戴纯兴（浪潮）
+
+# 会议制度 Meetings
+- 双周例会
+- 定期沙龙
 
 # SIG会议
 见[社区日历](https://lists.opencloudos.org/calendar)
